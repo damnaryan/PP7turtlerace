@@ -8,15 +8,15 @@ THIS IS A GOOD INTERMIDATE LEVEL PROJECT. At least for me, it is. Instead of a t
 
 ## Learnings:
 
-racer = turtle.Turtle() # setting up the turtle as a variable.
-racer.forward(100)      # moves the turtle forward by 100 pixels.
-racer.right(90)         # turns the turtle right by 90 degrees.
-racer.left(90)          # turns the turtle left by 90 degrees.
-racer.backward(100)     # moves the turtle backward by 100 pixels.
-racer.shape('round')    # change the icon shape (round, turtle, arrow are some valid shapes).
-racer.color('cyan')     # change the colour of the turtle.
-racer.speed(5)          # change the speed of the turtle.
-racer.penup()/.pendown()# toggle the pen for the turtle.
+###### racer = turtle.Turtle() # setting up the turtle as a variable.
+###### racer.forward(100)      # moves the turtle forward by 100 pixels.
+###### racer.right(90)         # turns the turtle right by 90 degrees.
+###### racer.left(90)          # turns the turtle left by 90 degrees.
+###### racer.backward(100)     # moves the turtle backward by 100 pixels.
+###### racer.shape('round')    # change the icon shape (round, turtle, arrow are some valid shapes).
+###### racer.color('cyan')     # change the colour of the turtle.
+###### racer.speed(5)          # change the speed of the turtle.
+###### racer.penup()/.pendown()# toggle the pen for the turtle.
 
 
 Turtle doc file: https://docs.python.org/3/library/turtle.html

@@ -69,3 +69,6 @@ colors = COLORS[:num_racers]
 winner = race(colors).capitalize()
 print(f"{winner} turtle won the race!")
 time.sleep(3)
+
+
+# THIS PROGRAM IS THE EXAMPLE OF A DYNAMIC PROGRAM (HOW?)
