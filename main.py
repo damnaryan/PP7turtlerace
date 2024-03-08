@@ -11,7 +11,7 @@ def intit_turtle():
     screen = turtle.Screen()      # Setting up the turtle screen as a variable.
     screen.setup(WIDTH, HEIGHT)   # Setting up the height and the weight of the turtle screen.
     screen.title('Turtle Racing') # Setting up the title name for the turtle screen.
-    time.sleep(2)
+    time.sleep(5)                 # Pauses the code interpreter for 2 secs.
 
 def num_of_racers():
     while True:
